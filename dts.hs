@@ -23,7 +23,6 @@ main = do
     let myData = map (\x -> (tail x, head x)) $ map(\s -> map(concatString) (zip mushromTypes s)) a
     let tree = dtree "root" myData
     putStrLn $ writeMultipleTree (children $ tree) 0
-    print tree
     writeQuestions $ children tree
 
 
