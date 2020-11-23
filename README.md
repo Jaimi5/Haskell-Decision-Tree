@@ -5,8 +5,6 @@ In this project we can find a implementation of a Decision Tree with a dataSet o
 The objective of the project is to print the decision tree and then do questions about the
 mushroom you want to know if is edible or poisonous.
 
-## Table of Contents
-
 ## Installation
 The `dts.hs` file is what sets up, runs, and evaluates a simple decision tree learner on a
 data set supplied via the command line.
@@ -27,8 +25,10 @@ The possible characters for every attribute are setted in the
 [DataBase / Attribute Section](https://archive.ics.uci.edu/ml/datasets/Mushroom)
 
 ## Credits
-[DataBase](https://archive.ics.uci.edu/ml/datasets/Mushroom)
-[Data.List](https://hackage.haskell.org/package/base-4.14.0.0/docs/Data-List.html)
+- Jeff Schlimmer, 1981. [Mushroom Data Set. UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/Mushroom)
+- Hackage Haskell community. [Data.List](https://hackage.haskell.org/package/base-4.14.0.0/docs/Data-List.html)
+- Gerard Escudero, 2020. [Machine Learning](https://gebakx.github.io/ml/#1).
+- Devesh Poojari, Aug 1, 2019. “[Machine Learning Basics: Descision Tree From Scratch (Part II)](https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-ii-dee664d46831).”
 
 ## License
 [GNU General Public License v3.0](LICENSE)
