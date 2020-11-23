@@ -4,7 +4,7 @@ in the subject Llenguatges de Programació.
 In this project we can find a implementation of a Decision Tree with a dataSet of Mushrooms.
 The objective of the project is to print the decision tree and then do questions about the
 mushroom you want to know is edible or poisonous.
-The statement of the project is defined in this [repository](https://gebakx.github.io/hs-dts/)
+The statement of the project is defined in this [repository](https://gebakx.github.io/hs-dts/).
 
 ## Installation
 The `dts.hs` file is what sets up, runs, and evaluates a simple decision tree learner on a
